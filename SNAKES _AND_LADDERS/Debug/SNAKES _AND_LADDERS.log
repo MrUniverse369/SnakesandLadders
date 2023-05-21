@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\tham_\OneDrive\Studio management\Data\C++ Files\Problems and projects\Games\SNAKES_&_LADDERS_GAME_04\SNAKES _AND_LADDERS\SNAKES _AND_LADDERS\main.cpp(226): warning C4715: 'gameOver': not all control paths return a value
+  SNAKES _AND_LADDERS.vcxproj -> C:\Users\tham_\OneDrive\Studio management\Data\C++ Files\Problems and projects\Games\SNAKES_&_LADDERS_GAME_04\SNAKES _AND_LADDERS\Debug\SNAKES _AND_LADDERS.exe
