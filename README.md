@@ -1,4 +1,5 @@
 # Snakes and Ladders Game - C++ Project
+![SnakesAndLadders](https://github.com/user-attachments/assets/47e42306-53cb-430c-94f3-60d083f04832)
 
 ## Overview
 This project is a console-based implementation of the classic **Snakes and Ladders** board game using C++. The game allows two players to compete, moving across a 10x10 game board, with the goal of reaching the 100th square first. Players must avoid snakes, which bring them down, and aim for ladders, which help them climb up the board faster.
